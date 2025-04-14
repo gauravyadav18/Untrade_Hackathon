@@ -83,8 +83,8 @@ This strategy focuses on EMA-based momentum trading and OBV oscillators:
 
 ## Requirements
 
-- Python 3.7+
-- pandas, numpy, sklearn, matplotlib
+- Python 3.12+
+- pandas, numpy, sklearn, matplotlib, Talib, Linear regression
 - Any OHLCV dataset with minute/hourly/daily crypto prices
 
 ## Getting Started
